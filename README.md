@@ -7,4 +7,4 @@ The main page of the site can be found at: https://neyenhousep.github.io/first-s
 
 If you have feedback for me, please feel free to contact me through the "Contact Me" button in the footer of the site. 
 
-** AI Disclaimer: ** I used AI as a reference to show me an example of what a HTML and CSS file should look like. I didn't use AI to make any code and nothing was copy and pasted into my code editor.
+**AI Disclaimer:** I used AI as a reference to show me an example of what a HTML and CSS file should look like. I didn't use AI to make any code and nothing was copy and pasted into my code editor.
