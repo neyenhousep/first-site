@@ -19,8 +19,15 @@ ul {
 }
 details {
     background-color: transparent;
-    margin-left: 100px;
-    margin-right: 100px;
+    max-width: 700px;
+    margin: 10px auto;
+    border-radius: 20px;
+}
+summary {
+    cursor: pointer;
+    width: fit-content;
+    margin: 0 auto;
+    padding: 10px;
     border-radius: 20px;
 }
 details[open] {
@@ -31,7 +38,11 @@ details[open] {
 }
 a {
     color: white;
-    text-decoration: italic;
+    font-style: italic;
+}
+.link-dd {
+    color: black;
+    font-style: italic;
 }
 footer {
     background-color: rgb(0, 98, 113);
